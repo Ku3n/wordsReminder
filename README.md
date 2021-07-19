@@ -9,18 +9,20 @@ wordsReminder 一个简单的自定义单词背诵网站
 
 
 手机页面：
+![image](https://user-images.githubusercontent.com/43924110/126169795-3af721ed-61ce-4d4d-a47d-95f4010a71a8.png)
 
- ![image](https://user-images.githubusercontent.com/43924110/126168906-a111d90d-e24b-4213-a68b-9603ebadd811.png)
 
 
 ## 如何使用
 
 下载打开后，你想要背诵的单词将放在test.csv中
-![image](https://user-images.githubusercontent.com/43924110/126168834-e55db3dc-0b51-4238-b12c-0be54e1898ce.png)
+![image](https://user-images.githubusercontent.com/43924110/126169822-7208699e-67e3-42d3-b26d-43c656082c12.png)
+
 
 
 只需要输入单词和含义即可，出现次数、模糊次数、忘记次数不需要手动填写，系统会自动初始化为0。
-![image](https://user-images.githubusercontent.com/43924110/126168973-d7203614-2912-493c-a7d8-acce00dc14ac.png)
+![image](https://user-images.githubusercontent.com/43924110/126169845-61fa6cec-e511-4dbc-992e-8398bd905655.png)
+
 
 
 ## 三、纯小白使用教程：
@@ -28,11 +30,13 @@ wordsReminder 一个简单的自定义单词背诵网站
 因为这个小工具是用php写的所以需要安装apache，可以直接下载phpstudy即可，下载地址：https://www.xp.cn/。
 
 下载完成后，将所有文件放在www目录下即可
-![image](https://user-images.githubusercontent.com/43924110/126168926-9f1902c5-7b44-4b10-aeca-79df1b9091cb.png)
+![image](https://user-images.githubusercontent.com/43924110/126169885-0fe64967-8801-4e1e-b2ce-347650e42b94.png)
+
 
 
 然后启动phpstudy
 ![image](https://user-images.githubusercontent.com/43924110/126169009-253ad291-feed-46ec-81a4-4321cdc9e0d5.png)
+
 ![image](https://user-images.githubusercontent.com/43924110/126169044-bf9bb77c-be93-475d-a706-fcc087ff29a3.png)
 
 
